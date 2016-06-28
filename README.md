@@ -1,0 +1,2 @@
+# Fremtiden
+blog
